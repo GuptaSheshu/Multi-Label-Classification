@@ -23,7 +23,7 @@ This repository contains Datasets, Final trained models for each algorithm, impl
 3. **BR_1** directory contains Binary Relevance implementation. 
 4. **Zhang_2** directory contains Zhang's algorithm implementation.
 5. **Sener_3** directory contains Sener's algorithm implementation.
-6. *scatterplot_data{1,2,3}.m* is a MATLAB script for data1, data2 and data3 respectively, which plots the learning curve i.e. "Number of training sample Vs Fbeta accuracy" for three different learning rates. 
+6. *scatterplot_data{1,2,3}.m* is a MATLAB script for data1, data2 and data3 respectively, which plots the learning curve i.e. "Number of training sample Vs F<sub>β</sub> accuracy" for three different learning rates. 
 7. *testallalgs_data{1,2,3}.py* is the testing script which takes the best model from *FinalModels* directory and evaluate the model on testing data for all the three algorithms.
 
 ## Execution
